@@ -1,2 +1,2 @@
 # sandbox
-private, sandbox
+sandbox. tryout
